@@ -50,7 +50,7 @@ namespace BankAccountNS
             }
 
 
-            m_balance += amount; // intentionally incorrect code
+            m_balance -= amount; // intentionally incorrect code
         }
 
 
